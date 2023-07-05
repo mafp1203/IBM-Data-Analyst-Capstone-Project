@@ -1,5 +1,5 @@
 # IBM-Data-Analyst-Capstone-Project   
-https://raw.githubusercontent.com/mafp1203/IBM-Data-Analyst-Capstone-Project/main/ruta/al/asset
+https://raw.githubusercontent.com/mafp1203/IBM-Data-Analyst-Capstone-Project/blob/main/data-analyst-capstone-project.png
 
 https://www.credly.com/badges/927366ed-64ca-4fd2-ac4a-794e917f87ad/public_url
 
